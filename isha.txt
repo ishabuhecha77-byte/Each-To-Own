@@ -1,0 +1,4 @@
+# Each line is one note from Isha. The newest note goes on the top line.
+# You can add a date first, like this:  2026-10-26 | Your note here
+# Lines that start with # are ignored.
+2026-10-25 | Dont use someone else's ruler to measure your progress
